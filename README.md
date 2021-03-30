@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+
+# Alyra Gradients
+
+1. Fork, clone et run `yarn`
+2. Installe bootstrap `yarn add bootstrap@next`
+3. Let's go 🚀
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
